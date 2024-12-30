@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
     "creationTimeUnixTimeInMs": 1735553857394,
-    "modificationTimeUnixTimeInMs": 1735553871395,
+    "modificationTimeUnixTimeInMs": 1735555557472,
     "trigger": {
         "id": 0,
         "identifier": "c9e5e60b-5743-4a50-9cf5-53a43cde527f",
@@ -175,8 +175,8 @@
             "workflowIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735553871315,
-            "modificationTimeUnixTimeInMs": 1735553871395,
+            "creationTimeUnixTimeInMs": 1735555557392,
+            "modificationTimeUnixTimeInMs": 1735555557472,
             "additionalProperties": {}
         },
         {
@@ -206,7 +206,7 @@
                 },
                 {
                     "name": "Branches",
-                    "value": "[{\"LogicalOperator\":0,\"Conditions\":[{\"Operator\":5,\"FieldName\":\"Siemplify_Get Similar Cases_1.SimilarCasesIds\",\"Type\":2,\"Value\":\"1\"}],\"Order\":1,\"IsDefaultBranch\":false,\"Name\":\"Branch\"},{\"LogicalOperator\":0,\"Conditions\":[],\"Order\":2,\"IsDefaultBranch\":true,\"Name\":\"Branch\"}]",
+                    "value": "[{\"LogicalOperator\":1,\"Conditions\":[{\"Operator\":5,\"FieldName\":\"Siemplify_Get Similar Cases_1.SimilarCasesIds\",\"Type\":2,\"Value\":\"1\"},{\"Operator\":5,\"FieldName\":\"Siemplify_Get Similar Cases_1.SimilarCasesIds\",\"Type\":2,\"Value\":\"2\"}],\"Order\":1,\"IsDefaultBranch\":false,\"Name\":\"Branch\"},{\"LogicalOperator\":0,\"Conditions\":[],\"Order\":2,\"IsDefaultBranch\":true,\"Name\":\"Branch\"}]",
                     "type": null,
                     "isMandatory": false,
                     "defaultValue": null,
@@ -278,8 +278,8 @@
             "workflowIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735553871316,
-            "modificationTimeUnixTimeInMs": 1735553871395,
+            "creationTimeUnixTimeInMs": 1735555557392,
+            "modificationTimeUnixTimeInMs": 1735555557472,
             "additionalProperties": {}
         },
         {
@@ -425,8 +425,8 @@
             "workflowIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735553871316,
-            "modificationTimeUnixTimeInMs": 1735553871395,
+            "creationTimeUnixTimeInMs": 1735555557392,
+            "modificationTimeUnixTimeInMs": 1735555557472,
             "additionalProperties": {}
         },
         {
@@ -572,8 +572,8 @@
             "workflowIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735553871316,
-            "modificationTimeUnixTimeInMs": 1735553871395,
+            "creationTimeUnixTimeInMs": 1735555557392,
+            "modificationTimeUnixTimeInMs": 1735555557472,
             "additionalProperties": {}
         },
         {
@@ -719,8 +719,8 @@
             "workflowIdentifier": "cf606427-f3bb-4924-93fa-d7656c602898",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735553871316,
-            "modificationTimeUnixTimeInMs": 1735553871395,
+            "creationTimeUnixTimeInMs": 1735555557392,
+            "modificationTimeUnixTimeInMs": 1735555557472,
             "additionalProperties": {}
         }
     ],
