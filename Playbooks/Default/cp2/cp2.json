@@ -17,7 +17,7 @@
     "categoryId": 1,
     "originalPlaybookIdentifier": "2696c854-51ea-4077-88d1-94b7a963d886",
     "creationTimeUnixTimeInMs": 1735570394777,
-    "modificationTimeUnixTimeInMs": 1735570394777,
+    "modificationTimeUnixTimeInMs": 1735571372719,
     "trigger": {
         "id": 0,
         "identifier": "28c0300d-72d2-4877-85cf-c929480cc9e3",
@@ -175,8 +175,8 @@
             "workflowIdentifier": "2696c854-51ea-4077-88d1-94b7a963d886",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735570394777,
-            "modificationTimeUnixTimeInMs": 1735570394777,
+            "creationTimeUnixTimeInMs": 1735571372628,
+            "modificationTimeUnixTimeInMs": 1735571372719,
             "additionalProperties": {}
         },
         {
@@ -278,8 +278,8 @@
             "workflowIdentifier": "2696c854-51ea-4077-88d1-94b7a963d886",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735570394777,
-            "modificationTimeUnixTimeInMs": 1735570394777,
+            "creationTimeUnixTimeInMs": 1735571372628,
+            "modificationTimeUnixTimeInMs": 1735571372719,
             "additionalProperties": {}
         },
         {
@@ -425,8 +425,8 @@
             "workflowIdentifier": "2696c854-51ea-4077-88d1-94b7a963d886",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735570394777,
-            "modificationTimeUnixTimeInMs": 1735570394777,
+            "creationTimeUnixTimeInMs": 1735571372628,
+            "modificationTimeUnixTimeInMs": 1735571372719,
             "additionalProperties": {}
         },
         {
@@ -572,8 +572,8 @@
             "workflowIdentifier": "2696c854-51ea-4077-88d1-94b7a963d886",
             "isTouchedByAi": false,
             "id": 0,
-            "creationTimeUnixTimeInMs": 1735570394777,
-            "modificationTimeUnixTimeInMs": 1735570394777,
+            "creationTimeUnixTimeInMs": 1735571372628,
+            "modificationTimeUnixTimeInMs": 1735571372719,
             "additionalProperties": {}
         }
     ],
@@ -587,6 +587,12 @@
         {
             "condition": "2",
             "fromStep": "5e8c8e88-441b-4c9c-a572-cd14e9d634b7",
+            "toStep": "8ed3f6e8-b591-4a94-9281-d37b82422b11",
+            "destinationActionStatus": 0
+        },
+        {
+            "condition": "",
+            "fromStep": "9f92c598-379d-4cb7-a1ec-b9ad7861d87b",
             "toStep": "8ed3f6e8-b591-4a94-9281-d37b82422b11",
             "destinationActionStatus": 0
         },
